@@ -1,0 +1,94 @@
+body
+{
+    background-color: #000;;
+}
+.input {
+    background-color: #303245;
+    border-radius: 12px;
+    border: 0;
+    box-sizing: border-box;
+    color: #eee;
+    font-size: 18px;
+    height: 50px;
+    outline: 0;
+    padding: 4px 20px 0;
+    width: 100%;
+  }
+
+  .submit {
+    margin-top: 1%; 
+    background-color: #08d;
+    border-radius: 12px;
+    border: 0;
+    box-sizing: border-box;
+    color: #eee;
+    cursor: pointer;
+    font-size: 18px;
+    height: 50px;
+    outline: 0;
+    text-align: center;
+    width: 50%;
+  }
+  
+  .submit:active {
+    background-color: #06b;
+  }
+
+ .divNazivSobe
+ {
+    border-radius: 12px;
+    border: 0;
+    box-sizing: border-box; 
+    text-align: center;
+    margin: auto;
+    width: 30%;
+    border: 3px solid #ab20fd;
+    padding: 10px;
+    background-color: #15172b;
+ } 
+
+ .divSoba
+ {
+    border-radius: 12px;
+    border: 0;
+    box-sizing: border-box; 
+    text-align: center;
+    width: 30%;
+    border: 3px solid #ab20fd;
+    padding: 10px;
+    display:inline-block;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    margin-left: 2.5%;
+    background-color: #15172b;
+ }
+
+ .labela
+ {
+     color: #08d;
+     display: block;
+     padding-bottom: 2%;
+     font-size: 18px;
+     
+ }
+ .divZaSobe
+ {
+     border: 3px solid #ab20fd;
+     margin-top: 2%;
+     background-color: #303245;
+ }
+
+ .join {
+  margin-top: 1%; 
+  background-color: #08d;
+  border-radius: 12px;
+  border: 0;
+  box-sizing: border-box;
+  color: #eee;
+  cursor: pointer;
+  font-size: 18px;
+  height: 30px;
+  outline: 0;
+  text-align: center;
+  width: 40%;
+}
